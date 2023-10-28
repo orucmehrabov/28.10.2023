@@ -1,0 +1,15 @@
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\bin\Debug\net6.0\28.10.2023.exe
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\bin\Debug\net6.0\28.10.2023.deps.json
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\bin\Debug\net6.0\28.10.2023.runtimeconfig.json
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\bin\Debug\net6.0\28.10.2023.dll
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\bin\Debug\net6.0\28.10.2023.pdb
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\obj\Debug\net6.0\28.10.2023.csproj.AssemblyReference.cache
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\obj\Debug\net6.0\28.10.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\obj\Debug\net6.0\28.10.2023.AssemblyInfoInputs.cache
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\obj\Debug\net6.0\28.10.2023.AssemblyInfo.cs
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\obj\Debug\net6.0\28.10.2023.csproj.CoreCompileInputs.cache
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\obj\Debug\net6.0\28.10.2023.dll
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\obj\Debug\net6.0\refint\28.10.2023.dll
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\obj\Debug\net6.0\28.10.2023.pdb
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\obj\Debug\net6.0\28.10.2023.genruntimeconfig.cache
+C:\Users\orujvm\Desktop\28.10.2023\28.10.2023\28.10.2023\obj\Debug\net6.0\ref\28.10.2023.dll
